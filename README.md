@@ -1,6 +1,3 @@
-Sure, here's a basic README file template for your Flutter task app:
-
----
 
 # Taskly App
 
@@ -49,6 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the Flutter team for providing an amazing framework.
 - Special thanks to the contributors of the dependencies used in this project.
 
----
-
-Feel free to customize this README file according to your project's specific requirements and details!
